@@ -1,6 +1,6 @@
 
 import { Routes, Route, useNavigate } from "react-router-dom";
-import { Home } from "./pages/home";
+import { Home } from "./pages/Home";
 import { Yes } from "./pages/Yes";
 import { No1 } from "./pages/No1";
 import { No2 } from "./pages/No2";
